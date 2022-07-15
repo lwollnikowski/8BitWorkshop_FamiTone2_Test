@@ -13,3 +13,5 @@
 - Działa, muzyka się odtwarza w IDE.
 
 FamiTone2 ma tam jakieś ograniczenia na efektach, także trzeba się nauczyć co przepada w trakcie konwersji. Na pewno jest jakiś problem z prędkością odtwarzania (efekt Fxx), bo muzyka odtwarza się inaczej w 8BitWorkshop i inaczej w Famitrackerze.
+
+Plik ftm_test.zip zawiera użyty w przykładzie plik FTM oraz wszystkie kroki pośrednie stworzone w trakcie procesu dodawania swoich utworów do projektów w 8BitWorkshop.
